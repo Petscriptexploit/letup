@@ -39,7 +39,7 @@ console.log("\n" + (
 isWatch && console.log("\nWatching for changes...");
 
 async function buildPlugin(plugin) {
-    if (plugin.endsWith(".ts")) return;
+    if (plugin.endsWith(".tsx")) return;
 
     const manifest = Object.assign(
         JSON.parse(await readFile("./base_manifest.json")),
