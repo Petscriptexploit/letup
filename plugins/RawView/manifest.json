@@ -1,0 +1,7 @@
+{
+    "name": "ViewRaw",
+    "description": "View Raw content of messages",
+    "vendetta": {
+        "icon": "StatusIdle"
+    }
+}
