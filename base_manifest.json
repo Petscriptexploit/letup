@@ -1,9 +1,9 @@
 {
     "authors": [
         {
-            "name": "pylix",
-            "id": "492949202121261067"
+            "name": "undumbledore",
+            "id": "1328463921559900335"
         }
     ],
-    "main": "src/index.ts"
+    "main": "src/index.tsx"
 }
